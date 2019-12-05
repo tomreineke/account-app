@@ -13,4 +13,7 @@ A browser window will open and on
 ```
 http://localhost:4200/ 
 ```
-you should see the overview.
+you should see the overview like so:
+
+<img src="https://github.com/tomreineke/account-app/blob/master/src/assets/account_app.png" style="zoom:50%;" />
+
