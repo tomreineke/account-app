@@ -7,7 +7,7 @@ After updating the transactions.ts file with the one created by [bank-account-ch
 ```
 ng serve --open
 ```
-If you are new to Angular, check out how to the [local setup](https://angular.io/guide/setup-local) tutorial.
+If you are new to Angular, check out the short [local setup](https://angular.io/guide/setup-local) description.
 
 A browser window will open and on 
 ```
