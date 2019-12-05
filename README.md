@@ -9,11 +9,7 @@ ng serve --open
 ```
 If you are new to Angular, check out the short [local setup](https://angular.io/guide/setup-local) description.
 
-A browser window will open and on 
-```
-http://localhost:4200/ 
-```
-you should see the overview like so:
+A browser window will open and on you should see an overview like this:
 
 <img src="https://github.com/tomreineke/account-app/blob/master/src/assets/account_app.png" style="zoom:50%;" />
 
