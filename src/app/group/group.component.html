@@ -1,0 +1,17 @@
+<h3>Aggregated incomes and spendings</h3>
+
+<table>
+    <tr *ngFor="let transaction of group()">
+        <td>{{ transaction.source }}</td>
+        <td>{{ transaction.sum }}</td>
+    </tr>
+</table>
+
+<h3>Transactions</h3>
+
+<table>
+    <tr *ngFor="let transaction of transactions">
+        <td>{{ transaction.source }}</td>
+        <td [innerHTML]="transaction.amount | transformAmount"></td>
+    </tr>
+</table>
